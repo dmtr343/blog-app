@@ -10,6 +10,7 @@ dist/
 # Firebase cache
 .firebase/
 firebase.json
+.firebaserc
 
 # Firebase config
 
